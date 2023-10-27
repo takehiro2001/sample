@@ -86,9 +86,6 @@ section h2 span {
 	padding-bottom: 50px;
 }
 
-#sec02 .inner{
-	border-bottom: 1px solid #a0a0a0;
-}
 
 .innerS{
 	width: 60%;
@@ -96,7 +93,7 @@ section h2 span {
 	padding-bottom: 80px;
 }
 
-/* sec02 PROJECT
+/* sec02 事業内容
 ------------------------------------------------------------*/
 #sec02{
 	padding-bottom: 0 !important;
@@ -105,7 +102,7 @@ section h2 span {
 .article{
 	clear: both;
 	overflow: hidden;
-	padding-bottom: 50px;
+	padding-bottom: 20px;
 }
 
 .article img{
@@ -114,26 +111,14 @@ section h2 span {
 }
 
 .article p{
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 
-
-/* sec03 COMPANY
-------------------------------------------------------------*/
-#sec03 p{
-	margin-bottom: 5px;
-}
-
-.col2 li{
-	display: inline-block;
-	width: 100%;
-  margin: 20px 0;
-}
 
 #map{
 	position: relative;
-	padding-bottom: 75%;
+	padding-bottom: 40%;
 	height: 0;
 	overflow: hidden;
 	z-index: 0;
@@ -204,8 +189,7 @@ section h2 span {
 		opacity: .8;
 	}
 
-	/* SEC03 BRAND
-	-----------------*/
+
 	.col4{
 		text-align: center;
 	}
@@ -243,10 +227,6 @@ section h2 span {
 	.innerS{
 		width: 94%;
 		padding-bottom: 30px;
-	}
-	#gallery li{
-		float: none;
-		width: 100%;
 	}
 	.article img{
 		float: none;
